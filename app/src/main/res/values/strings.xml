@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Popular Movies App</string>
+
+    <!-- Example title data copied from Sandwich logic-->
+    <!-- Detail Activity-->
+    <string name="detail_main_title">Title</string>
+    <string name="detail_overview">Overview</string>
+    <string name="detail_date_released">00-00-2000</string>
+    <string name="detail_rating">x/10</string>
+    <!-- Content descriptions-->
+
+
+    <!-- Error messages-->
+    <string name="detail_error_message">Data not available</string>
+
+
+
+    <string name="most_popular_search">Search Most Popular</string>
+    <string name="highest_rated_search">Search Highest Rated</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+
+
+</resources>
